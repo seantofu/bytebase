@@ -1,0 +1,1 @@
+set fujinghui 1
